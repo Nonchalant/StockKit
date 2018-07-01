@@ -1,0 +1,6 @@
+.DS_Store
+/.build
+/DerivedData
+/Packages
+/*.xcodeproj
+/conf.yml
